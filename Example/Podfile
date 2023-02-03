@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PepptyScrollView_Example' do
+  pod 'PepptyScrollView', :path => '../'
+
+  target 'PepptyScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

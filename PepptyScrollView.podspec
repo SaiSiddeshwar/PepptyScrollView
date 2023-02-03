@@ -28,10 +28,11 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/SaiSiddeshwar/PepptyScrollView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '14.0'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'PepptyScrollView/Classes/**/*'
-  
+#  s.source_files = 'Classes/*.{h,m}'
+
   # s.resource_bundles = {
   #   'PepptyScrollView' => ['PepptyScrollView/Assets/*.png']
   # }

@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'PepptyScrollView/Classes/**/*'
+  s.source_files = 'PepptyScrollView/**/*'
 #  s.source_files = 'Classes/*.{h,m}'
 
   # s.resource_bundles = {

@@ -1,0 +1,6 @@
+framework module PepptyScrollView {
+  umbrella header "PepptyScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}

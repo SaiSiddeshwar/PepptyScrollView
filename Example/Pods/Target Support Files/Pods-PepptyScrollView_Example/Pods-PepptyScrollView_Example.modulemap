@@ -1,0 +1,6 @@
+framework module Pods_PepptyScrollView_Example {
+  umbrella header "Pods-PepptyScrollView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

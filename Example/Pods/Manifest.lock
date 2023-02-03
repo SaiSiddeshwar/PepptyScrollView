@@ -1,0 +1,16 @@
+PODS:
+  - PepptyScrollView (0.1.0)
+
+DEPENDENCIES:
+  - PepptyScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  PepptyScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PepptyScrollView: c91d32368bc9d86ccd07843fc4709c7239460a08
+
+PODFILE CHECKSUM: 93566e0c3dfa0a8987340682167a510abf07417c
+
+COCOAPODS: 1.11.3
